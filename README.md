@@ -1,7 +1,7 @@
 <div id="about"> 
 
 ## :page_facing_up: About
-This project was inspired by the lyrics search engine taught by youtube channel<a href="https://www.youtube.com/user/TechGuyWeb" target="_blank">Traversy Media</a> .
+This project was inspired by the lyrics search engine taught by youtube channel <a href="https://www.youtube.com/user/TechGuyWeb" target="_blank">Traversy Media</a> .
 </div>
 
 <div id="tecnologies"> 
